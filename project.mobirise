@@ -76,9 +76,10 @@
     "favicon": false,
     "robotsSwitcher": false,
     "sitemapSwitcher": false,
-    "sitemapSwitcherAuto": false,
+    "sitemapSwitcherAuto": "on",
     "siteUrl": false,
     "cookiesAlert": false,
+    "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n",
     "gdpr": false
   },
   "pages": {
